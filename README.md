@@ -1,2 +1,2 @@
 # zaj-extensions
-Extensions for Zoom Autojoiner GUI
+Extensions for [https://github.com/advaithm582/zoom-autojoiner-gui](Zoom Autojoiner GUI)
